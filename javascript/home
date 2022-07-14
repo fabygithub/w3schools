@@ -1,0 +1,56 @@
+es el lenguaje de programacion mas popular del mundo
+el lenguaje de programacion de la web
+facil de aprender
+desde lo basico a lo avanzado
+
+editar y ver  el resultado
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>My First JavaScript</h2>
+
+<button type="button"
+onclick="document.getElementById('demo').innerHTML = Date()">
+Click me to display Date and Time.</button>
+
+<p id="demo"></p>
+
+</body>
+</html> 
+
+recomendado estudiar el tutorial en orden de dificultad
+los ejemplos son mejores que 1000 palabras
+
+es mas facil que enterder las explicaciones
+en texto
+
+javascript es 1 de los 3 lenguajes
+que un desarrollador web debe conocer
+
+html define el contenido
+css define el diseño
+javascript define el comportamiento
+
+el tutorial cubre cada version de javascript
+
+es1 a es6
+
+the yearly additions
+
+tu eliges la velocidad de estudio
+
+intenta entender todos los ejemplos
+
+si no sabes hacer algo
+tomar un descanso
+o vuelve a leer el material
+
+el unico camino para ser un buen programador
+es practicar 
+codigo
+
+probarse a si mismo con los ejercicios
+
+var carName = "Volvo";
