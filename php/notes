@@ -1,0 +1,69 @@
+php es en el lado del servidor
+sirve para crear paginas
+interactivas y dinamicas
+
+competidor microsoft asp
+
+practicas el php codigo
+apretar play 
+para ver el resultado
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+echo "My first PHP script!";
+?> 
+
+</body>
+</html>
+
+
+inserta lo que falta en la parte de hello world
+
+
+echo
+ "Hello World";
+ 
+ echo sirve para mostrar un mensaje 
+ 
+ 
+ como complemento a la explicacion
+ puede ver los ejemplos
+ 
+ el quiz puede mostrar cuanto uno sabe
+ o no sabe sobre php
+ 
+ estudiar las referencias de php
+ 
+ las funciones
+ palabras clave
+ constantes
+ ejemplos
+ 
+ completa un curso 
+ una certificacion
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
