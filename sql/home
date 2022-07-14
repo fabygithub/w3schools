@@ -1,0 +1,111 @@
+sql
+es el lenguaje para acceder a la bases de datos
+
+sirve para almacenar
+manipular 
+y recibir
+datos 
+en la bases de datos
+
+como usar sql en diferentes programas como
+
+mysql
+sql-server
+ms access
+oracle
+Sybase
+Informix
+Postgres
+y otros
+sistemas de base de datos
+
+ejemplos en cada capitulo
+
+editar las sentencias sql
+ver el resultado
+
+SELECT * FROM Customers;
+
+selecciona todos los datos de la tabla customers
+
+se selecciono la tabla customers
+que tiene 91 registros
+
+CustomerID     CustomerName            ContactName         Address           City      PostalCode  Country
+ 
+1              Alfreds Futterkiste     Maria Anders        Obere Str. 57     Berlin     12209       Germany
+
+
+
+entender los conceptos con ejemplos
+
+ver los ejemplos
+
+probar tus habilidades con un quiz
+
+consultar la referencia de sql
+
+las palabras clave
+mysql funciones
+sqlserver funciones
+ms access funciones
+
+sql rapida referencia
+tipo de datos en 
+
+mysql
+sqlserver
+microsoft access
+
+conseguir una certificacion
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
