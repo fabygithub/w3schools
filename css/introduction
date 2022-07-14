@@ -1,0 +1,71 @@
+stylo de un documento html
+como los elementos html son mostrados
+enseñar desde lo basico hasta lo avanzado
+
+agregar el estilo a una pagina web
+
+como la hoja de estilos
+cambia el diseño de la pagina web
+
+los div sirven para agrupar la diferentes
+secciones de la pagina
+
+lorep ipsim parrafo de prueba
+
+css te permite editar el diseño
+en diferentes tamaños de pantalla
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+</style>
+</head>
+<body>
+
+<h1>My First CSS Example</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
+
+
+
+
+text aling center el texto de alininea al centro de la pantalla
+
+html no contiene tags para cambiar el diseño de la pagina
+web
+
+
+html sirve para describir el contenido de la pagina web
+
+por ejemplo
+
+h1 titulo
+p parrafo
+
+font aparecio int html 3.2
+
+pero agregar todos los estilos en una sola pagina html
+no seria lo mas conveniente
+
+css te permite guardar mucho trabajo
+
+con un 1 archivo puede cambiar toda la pagina
+
+
+
