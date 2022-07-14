@@ -34,6 +34,28 @@ this.hide desaparece el parrafo
 ver el resultado 
 o como funciona
 
+usar el selector correcto para el elemento
+<p>
+
+$("p").hide();
+
+intentar hacer una cantidad de ejemplos
+grande
+
+probar tus habilidades de jquery
+
+consultar en la referencias de jquery
+
+selectores
+metodos
+propiedades
+eventos
+
+certificacion 
+curso
+
+
+
 
 
 
