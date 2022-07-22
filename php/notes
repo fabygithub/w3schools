@@ -45,6 +45,200 @@ echo
  completa un curso 
  una certificacion
  
+ PHP is a server scripting language, and a powerful tool for making dynamic and interactive Web pages.
+ PHP is a widely-used, free, and efficient alternative to competitors such as Microsoft's ASP.
+ 
+ <!DOCTYPE html>
+<html>
+<body>
+
+<?php
+echo "My first PHP script!";
+?>
+
+</body>
+</html>
+
+
+Exercise:
+Insert the missing part of the code below to output "Hello World".
+
+________  "Hello World";
+
+respuesta
+echo
+
+
+insert the opening and close tags
+
+echo "This is PHP";
+
+respuesta
+
+<?php
+
+?>
+
+Single-line comments
+
+
+__________This is a single-line comment
+
+respuesta
+
+//
+
+insert a multi-line comment
+
+this is a multiline comment
+
+respuesta
+
+/*
+*/
+
+Statements in PHP have to end
+
+echo "Hello World"_____
+
+respuesta 
+;
+
+Create a variable named txt and assign the value "Hello".
+
+________  =  " " ;
+
+repuesta
+
+$txt = "Hello";
+
+Create one variable named x, and one variable named y, then use the echo statement to output the sum of x and y.
+
+____  =  5;
+
+____  =  7;
+
+____  ______ + _______;
+
+
+respuesta
+
+$x = 5;
+$y = 7;
+
+echo $x + $y;
+
+funciones
+Get the length of the string "Hello World!".
+
+echo __________ ("Hello World!");
+
+respuesta
+
+strlen 
+
+Reverse the string "Hello World!".
+
+echo ________ ("Hello World!");
+
+strrev
+
+Replace the word "World" with the word "Dolly".
+
+$oldtext = "Hello World";
+$newtext = str_replace("World","Dolly",$oldtext);
+
+Multiply 10 with 5, and output the result.
+echo 10 * 5;
+
+Divide 10 by 2, and output the result.
+echo 10/2;
+
+Use the correct comparison operator to check if $a is equal to $b.
+var_dump($a==$b);
+
+Use the correct comparison operator to check if $a is NOT equal to $b.
+var_dump($a!=$b);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  
  
  
