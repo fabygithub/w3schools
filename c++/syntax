@@ -1,0 +1,68 @@
+Insert the missing part of the code below to output "Hello World!".
+
+int main() {
+cout << "Hello World!";
+  return 0;
+}
+
+
+Insert a new line after "Hello World", by using a special character:
+
+int main() {
+  cout << "Hello World! \n";
+  cout << "I am learning C++";
+  return 0;
+}
+
+Comments in C++ are written with special characters. Insert the missing parts:
+
+
+//This is a single-line comment
+/*This is a multi-line comment */
+
+
+Create a variable named myNum and assign the value 50 to it.
+
+int myNum = 50;
+
+
+Display the sum of 5 + 10, using two variables: x and y.
+
+int x = 5;
+int y = 10;
+cout << x + y;
+
+Create a variable called z, assign x + y to it, and display the result.
+int x = 5;
+int y = 10;
+int z = x + y;
+cout << z;
+
+Fill in the missing parts to create three variables of the same type, using a comma-separated list:
+
+int x = 5, y = 6, z = 50;
+cout << x + y + z;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
