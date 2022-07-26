@@ -1,0 +1,13 @@
+Use the correct selector to hide all <p> elements.
+$("
+p
+").hide();
+
+
+Use the correct selector to hide an element with id="test".
+$("
+#test
+").hide();
+
+
+
