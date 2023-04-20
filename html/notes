@@ -1,0 +1,53 @@
+paragraph
+add a tooltip 
+title
+Set the size of the image
+width = 400
+heigth = 800
+element below into a link
+href=
+Alternate text is useful when the image cannot be displayed 
+alt
+add a heading with the text "London".
+<h1>London</h1>
+Add six headings to the document with the text "Hello
+
+<h1>Hello</h1>
+
+<h2>Hello</h2>
+
+<h3>Hello</h3>
+
+<h4>Hello</h4>
+
+<h5>Hello</h5>
+
+<h6>Hello</h6>
+
+
+<h1>
+Universal Studios Presents
+</h1>
+
+
+<h2>
+Jurassic Park
+</h2>
+
+
+<h3>
+About
+</h3>
+
+
+<p>
+On the Island of Isla Nublar, a new park has been built: Jurassic Park is a theme park of cloned dinosaurs!!
+</p>
+
+
+
+
+
+
+
+
