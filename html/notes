@@ -47,6 +47,56 @@ On the Island of Isla Nublar, a new park has been built: Jurassic Park is a them
 
 https://www.w3schools.com/html/exercise.asp?filename=exercise_html_paragraphs1
 
+add a paragraph with the text "Hello World!".
+
+<p>Hello World!</p>
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+
+
+Add a horizontal rule
+
+<h1>London</h1>
+<hr>
+<p>over 13 million in habitants.</p>
+
+//linea horizontal 
+<hr>
+
+//Add a line break 
+<br>
+
+// preserve all spaces and linebreaks when the element is displayed.
+
+<pre>
+
+  My Bonnie lies over the ocean.
+
+  My Bonnie lies over the sea.
+
+  My Bonnie lies over the ocean.
+
+  Oh, bring back my Bonnie to me.
+</pre>
+
+
+// Los espacios dentro de este elemento también son mostrados como están escritos.
+<pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
