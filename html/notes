@@ -85,6 +85,58 @@ Add a horizontal rule
 
 https://www.w3schools.com/html/exercise.asp?filename=exercise_html_styles1
 
+Use the correct HTML attribute
+
+<p 
+style
+="
+color:blue
+;">This is a paragraph.</p>
+
+
+Use CSS to set the font of the paragraph to "courier".
+
+answer : font-family
+
+Use CSS to center align the paragraph.
+// o alinear un texto
+
+<p style="
+text-align
+:center;">This is a paragraph.</p>
+
+text-align
+
+Use CSS to set the text size to 50 pixels.
+
+<p style="
+font-size
+:50px;">This is a paragraph.</p>
+
+Use CSS to set the background color of the document to yellow.
+
+background-color
+
+<html>
+<body style="
+background-color
+:yellow;">
+
+<h1>This is a heading</h1>
+
+<p>This is a paragraph.</p>
+
+</body>
+</html>
+
+
+https://www.w3schools.com/html/exercise.asp?filename=exercise_html_styles6
+
+
+
+
+
+
 
 
 
